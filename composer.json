@@ -1,5 +1,5 @@
 {
-    "name": "damianociarla/rating-bundle",
+    "name": "tengopl/rating-bundle",
     "description": "This Bundle provides functionality for a rating system for Symfony2 applications",
     "type": "library",
     "keywords": [
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "2.3.*"
+        "symfony/symfony": "2.4.*"
     },
     "autoload": {
         "psr-0": { "DCS\\RatingBundle": "" }
